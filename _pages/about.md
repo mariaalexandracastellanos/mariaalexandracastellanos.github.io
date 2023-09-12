@@ -10,8 +10,8 @@ redirect_from:
 I am a PhD candidate at [Universidad Carlos III de Madrid](https://economics.uc3m.es). 
 My main research interests are in labour, migration and development economics.  
 
-<font size="1"> 🎓 **Education**</font> \
-<font size="1"> PhD(c) Economics - [Universidad Carlos III de Madrid](https://economics.uc3m.es)</font>  \
-<font size="1"> MSc in Economics (Distinction) - [University College London](https://www.ucl.ac.uk/economics/ucl-department-economics).</font>  
+<font size="4"> 🎓 **Education** </font> \
+<font size="4"> PhD(c) Economics - [Universidad Carlos III de Madrid](https://economics.uc3m.es) \</font> 
+<font size="4"> MSc in Economics (Distinction) - [University College London](https://www.ucl.ac.uk/economics/ucl-department-economics). </font>  
 
 
