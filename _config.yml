@@ -251,11 +251,12 @@ defaults:
   # _testj
   - scope:
       path: ""
-      type: talks
+      type: testj
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comment: true
 
 # Sass/SCSS
 sass:
