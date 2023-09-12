@@ -8,6 +8,10 @@ main:
     
   - title: "Policy"
     url: /policy/
+  
+  - title: "TestJ"
+    url: /testj/
+  
         
 #  - title: "Blog Posts"
 #   url: /year-archive/
