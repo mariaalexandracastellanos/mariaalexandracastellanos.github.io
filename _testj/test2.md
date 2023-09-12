@@ -1,6 +1,6 @@
 ---
 title: "Teaching experience 2 - No link"
-collection: teaching
+collection: testj
 type: "Undergraduate course"
 venue: "University 1, Department"
 date: 2014-01-01
