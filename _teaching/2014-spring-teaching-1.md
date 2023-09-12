@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Universidad de las Américas"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
@@ -8,19 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-Heading 1
-======
-
-Headding bla
-======
-
-Heading 3
-======
-
-Heading 4
-=====
-
-# Universidad de las Américas
 **Main Instructor**
 
 - **Advanced Econometrics**   
