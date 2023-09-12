@@ -2,7 +2,7 @@
 title: "Quasi-Random Matches: Evidence from Dual Labor Markets"
 collection: research
 excerpt: '<span style="font-size: 14px;">
-(with Henry Redondo and Jan Stuhler)</span>
+María Alexandra Castellanos, Henry Redondo, Jan Stuhler</span> <br>
 A fast-growing literature studies how sorting into particular jobs, firms, or locations
 affects workers. The key challenge when studying such questions is the
 non-random sorting of workers into jobs. We propose a novel identification strategy
