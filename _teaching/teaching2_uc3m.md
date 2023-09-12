@@ -6,7 +6,7 @@ permalink: /teaching/teaching2_uc3m
 venue: "Madrid, Spain"
 date: 2022-12-12
 location: "City, Country"
-excerpt: '<div style="color: rgb(0, 51, 102); text-align: left; margin-top: 0.5em; padding-top: 0.5em;">
+excerpt: '<div style="color: #50acad ; text-align: left; margin-top: 1em; padding-top: 0.5em;">
    AWARD Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022
 </div> <br>
 
@@ -14,7 +14,7 @@ excerpt: '<div style="color: rgb(0, 51, 102); text-align: left; margin-top: 0.5e
 
 - **Econometrics**  <br>
 Master in Economics and Master in Industrial Economics & Markets  <br>
-TA for Professors César ALonso-Borrego and Ricardo Mora  <br>
+TA for Professors César Alonso-Borrego and Ricardo Mora  <br>
 Fall 2021  
 *English* <br>
 
@@ -45,7 +45,7 @@ Fall 2019 <br>
 ---
 
 
-<div style="border-top: 3px  #2E8B57; color: rgb(0, 51, 102); text-align: center; margin-top: 0.5em; padding-top: 0.5em;">
+<div style="border-top: 3px ; color: #50acad ; text-align: center; margin-top: 1em; padding-top: 0.5em;">
   AWARDS Vice Dean's Teaching Excellence 2019, 2020, 2021, 2022
 </div>
 
