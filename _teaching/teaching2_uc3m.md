@@ -6,7 +6,11 @@ permalink: /teaching/teaching2_uc3m
 venue: "Madrid, Spain"
 date: 2022-12-12
 location: "City, Country"
-excerpt: ' **Graduate Courses**  <br>
+excerpt: '<div style="color: red; text-align: center; margin-top: 1em; padding-top: 0.5em;">
+  AWARDS Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022
+</div> <br>
+
+**Graduate Courses**  <br>
 
 - **Econometrics**  <br>
 Master in Economics and Master in Industrial Economics & Markets  <br>
@@ -19,7 +23,7 @@ Master in Economics and Master in Industrial Economics & Markets
 TA for Professor Andrés Erosa  
 Fall 2021  
 *English*  <br>
-  <br>
+<br>
 **Undergraduate Courses**  <br>
 
 - **Quantitaive Microeconomics** (Microeconometrics)  <br>
