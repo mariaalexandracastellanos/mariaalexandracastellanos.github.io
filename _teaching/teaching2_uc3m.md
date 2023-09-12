@@ -4,7 +4,7 @@ collection: teaching
 type: "Economics Department"
 permalink: /teaching/teaching2_uc3m
 venue: "Madrid, Spain"
-date: 2014-01-01
+date: 
 location: "City, Country"
 excerpt: '**Graduate Courses**  
 
