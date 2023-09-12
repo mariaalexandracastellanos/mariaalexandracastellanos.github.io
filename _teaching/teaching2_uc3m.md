@@ -7,9 +7,9 @@ venue: "Madrid, Spain"
 date: 2022-12-12
 location: "City, Country"
 excerpt: '<div style="color: #50acad ; text-align: left; margin-top: 1em; padding-top: 0.5em;">
-   AWARD Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022 </div>
+   AWARDS Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022 </div>
 
-## Graduate Courses  <br>
+  ## Graduate Courses  <br>
 
 - **Econometrics**  <br>
 Master in Economics and Master in Industrial Economics & Markets  <br>
