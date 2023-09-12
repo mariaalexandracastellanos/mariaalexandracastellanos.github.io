@@ -1,7 +1,7 @@
 ---
 title: "Immigration, Parenthood and Child Penalties"
 collection: research
-excerpt: 'In this paper I analyse the impact of a larger provision of domestic services
+excerpt: 'I analyse the impact of a larger provision of domestic services
 on child penalties, focusing on the Spanish migration boom as an exceptional case
 study. The sudden supply shock in domestic and childcare services stemming from
 this event provides a unique quasi-experimental setting to examine whether the
