@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 
-{% for post in site.research reversed %}
+{% for post in site.research %}
   {% include archive-single-nolink.html %}
 {% endfor %}
