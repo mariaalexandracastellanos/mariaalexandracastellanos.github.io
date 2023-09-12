@@ -15,6 +15,6 @@ My main research interests are in labour, migration and development economics.
 - <font size="4">MSc in Economics (Distinction) at [University College London](https://www.ucl.ac.uk/economics/ucl-department-economics)</font>
 
 ### *News*
-- <font size="4">I am visiting [Boston University](https://www.bu.edu/econ/) during the Fall 2023</font>
+- <font size="4">I am visiting [Boston University](https://www.bu.edu/econ/) during the Fall 2023</font> 
 
 
