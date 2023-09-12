@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "María Alexandra Castellanos"
-  avatar           : "profile.png"
+  avatar           : "Mariale_profile_pic.jpg"
   bio              : "PhD(c) in Economics"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : marcaste@eco.uc3m.es
+  email            : "marcaste@eco.uc3m.es"
   researchgate     : 
   uri              :
   bitbucket        :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : #
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #
   lastfm           :
   linkedin         : "https://es.linkedin.com/in/maria-alexandra-castellanos-4605ba13b"
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "@MarialeCastell"
