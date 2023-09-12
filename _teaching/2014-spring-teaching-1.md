@@ -1,3 +1,7 @@
+---
+collection: teaching
+---
+
 # Universidad de las Américas
 **Main Instructor**
 
