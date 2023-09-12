@@ -4,14 +4,15 @@ collection: teaching
 type: "Economics Department"
 permalink: /teaching/teaching2_uc3m
 venue: "Madrid, Spain"
+date: "2019-01-01 to 2022-12-31"
 location: "City, Country"
-excerpt: '**Graduate Courses**  
+excerpt: '**Graduate Courses**  <br>
 
 -**Econometrics**  <br>
-Master in Economics and Master in Industrial Economics & Markets  
-TA for Professors César ALonso-Borrego and Ricardo Mora  
+Master in Economics and Master in Industrial Economics & Markets  <br>
+TA for Professors César ALonso-Borrego and Ricardo Mora  <br>
 Fall 2021  
-*English* 
+*English* <br>
 
 -**Macroeconomics** <br>
 Master in Economics and Master in Industrial Economics & Markets  
