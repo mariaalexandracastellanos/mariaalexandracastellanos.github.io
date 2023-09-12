@@ -6,7 +6,7 @@ permalink: /teaching/teaching2_uc3m
 venue: "Madrid, Spain"
 date: 2022-12-12
 location: "City, Country"
-excerpt: '<div style="color: #00CED1; text-align: left; margin-top: 1em; padding-top: 0.5em;">
+excerpt: '<div style="color: #2E8B57; text-align: left; margin-top: 1em; padding-top: 0.5em;">
    AWARD Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022
 </div> <br>
 
@@ -19,30 +19,33 @@ Fall 2021
 *English* <br>
 
 - **Macroeconomics** <br>
-Master in Economics and Master in Industrial Economics & Markets  
-TA for Professor Andrés Erosa  
-Fall 2021  
+Master in Economics and Master in Industrial Economics & Markets  <br>
+TA for Professor Andrés Erosa  <br>
+Fall 2021  <br>
 *English*  <br>
-<br>
+
 **Undergraduate Courses**  <br>
 
 - **Quantitaive Microeconomics** (Microeconometrics)  <br>
-Fall 2019, 2020, 2021, 2022  
+Fall 2019, 2020, 2021, 2022   <br>
 *English, Spanish*  
 
 - **Econometric Techniques**  <br>
-Fall 2020  
+Fall 2020   <br>
 *English*  
 
 - **Applied Economics**  <br>
-Spring 2020, 2021  
+Spring 2020, 2021  <br>
 *English, Spanish*  
 
 - **Introduction to Mathematics for Economics**  <br>
-Fall 2019'
+Fall 2019 <br>
+*English, Spanish*  
+'
 ---
 
-<div style="border-top: 3px  #00CED1;; color: turquoise; text-align: center; margin-top: 1em; padding-top: 0.5em;">
+
+<div style="border-top: 3px  #2E8B57;; color: turquoise; text-align: center; margin-top: 1em; padding-top: 0.5em;">
   AWARDS Vice Dean's Teaching Excellence 2019, 2020, 2021, 2022
 </div>'
 
