@@ -1,7 +1,7 @@
 ---
 title: "Universidad de las Américas"
 collection: teaching
-type: 
+type: ""
 permalink: /teaching/2014-spring-teaching-1
 venue: "Economics Department"
 date: 2018
