@@ -1,20 +1,38 @@
----
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
----
+# Universidad Carlos III 
+**Graduate Courses**
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- **Econometrics**  
+   Master in Economics and Master in Industrial Economics & Markets  
+   TA for Professors César ALonso-Borrego and Ricardo Mora  
+  Fall 2021  
+  *English*
 
-Heading 1
-======
+- **Macroeconomics**  
+   Master in Economics and Master in Industrial Economics & Markets  
+   TA for Professor Andrés Erosa
+  Fall 2021
+  *English*
 
-Heading 2
-======
+**Undergraduate Courses**  
 
-Heading 3
-======
+- **Quantitaive Microeconomics** (Microeconometrics)  
+Fall 2019, 2020, 2021, 2022  
+*English, Spanish*
+
+- **Econometric Techniques**  
+Fall 2020  
+*English*
+
+- **Applied Economics**  
+Spring 2020, 2021  
+*English, Spanish*
+
+
+- **Introduction to Mathematics for Economics**  
+Fall 2019  
+  *Spanish*
+
+  <div style="border-top: 3px solid turquoise; color: turquoise; text-align: center; margin-top: 1em; padding-top: 0.5em;">
+  AWARDS Vice Dean's Teaching Excellence 2019, 2020, 2021, 2022
+</div>
+
