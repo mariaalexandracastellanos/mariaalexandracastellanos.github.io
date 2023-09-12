@@ -6,7 +6,7 @@ permalink: /teaching/2014-spring-teaching-1
 venue: "Quito, Ecuador"
 date: "2018-01-01"
 location: "Quito, Ecuador"
-excerpt: ' 
+excerpt: '
 ## Main Instructor
 
 - **Advanced Econometrics**   
