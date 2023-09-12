@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -252,6 +255,16 @@ defaults:
   - scope:
       path: ""
       type: testj
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
+
+  # _research
+  - scope:
+      path: ""
+      type: research
     values:
       layout: single
       author_profile: true
