@@ -1,11 +1,11 @@
 ---
 title: "Universidad de las Américas"
 collection: teaching
-type: "Undergraduate course"
+type: 
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Economics Department"
+date: 2018
+location: "Quito, Ecuador"
 excerpt: '**Main Instructor**
 
 - **Advanced Econometrics**   
