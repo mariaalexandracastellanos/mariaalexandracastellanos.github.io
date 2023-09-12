@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a PhD candidate at [Universidad Carlos III de Madrid](https://economics.uc3m.es). 
-My main research interests are in labour, migration and development economics.  
+My main research interests are in labour, migration and development economics.
 
 ### 🎓Education
 -  PhD(c) Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es)
