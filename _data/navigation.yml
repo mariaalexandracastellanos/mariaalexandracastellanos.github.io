@@ -6,11 +6,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Policy"
-    url: /policy/
+#  - title: "Policy"
+#    url: /policy/
   
-  - title: "TestJ"
-    url: /testj/
+#  - title: "TestJ"
+#    url: /testj/
   
         
 #  - title: "Blog Posts"
