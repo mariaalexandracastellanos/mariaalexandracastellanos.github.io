@@ -10,7 +10,7 @@ excerpt: '<div style="color: #50acad ; text-align: left; margin-top: 1em; paddin
    AWARD Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022
 </div> <br>
 
-**Graduate Courses**  <br>
+##Graduate Courses  <br>
 
 - **Econometrics**  <br>
 Master in Economics and Master in Industrial Economics & Markets  <br>
@@ -24,7 +24,7 @@ TA for Professor Andrés Erosa  <br>
 Fall 2021  <br>
 *English*  <br>
 
-**Undergraduate Courses**  <br>
+##Undergraduate Courses  <br>
 
 - **Quantitaive Microeconomics** (Microeconometrics)  <br>
 Fall 2019, 2020, 2021, 2022   <br>
