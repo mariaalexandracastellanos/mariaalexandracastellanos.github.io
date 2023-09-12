@@ -6,7 +6,7 @@ permalink: /teaching/teaching2_uc3m
 venue: "Madrid, Spain"
 date: 2022-12-12
 location: "City, Country"
-excerpt: '<div style="color: #2E8B57; text-align: left; margin-top: 1em; padding-top: 0.5em;">
+excerpt: '<div style="color: rgb(0, 51, 102); text-align: left; margin-top: 0.5em; padding-top: 0.5em;">
    AWARD Vice Dean´s Teaching Excellence: 2019, 2020, 2021, 2022
 </div> <br>
 
@@ -45,9 +45,9 @@ Fall 2019 <br>
 ---
 
 
-<div style="border-top: 3px  #2E8B57;; color: turquoise; text-align: center; margin-top: 1em; padding-top: 0.5em;">
+<div style="border-top: 3px  #2E8B57; color: rgb(0, 51, 102); text-align: center; margin-top: 0.5em; padding-top: 0.5em;">
   AWARDS Vice Dean's Teaching Excellence 2019, 2020, 2021, 2022
-</div>'
+</div>
 
 **Graduate Courses**
 
