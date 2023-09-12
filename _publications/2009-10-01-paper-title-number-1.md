@@ -1,15 +1,29 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+title: "Immigration, Parenthood and Child Penalties"
+collection: research
+permalink: /research/paper1
+excerpt: 'In this paper I analyse the impact of a larger provision of domestic services
+on child penalties, focusing on the Spanish migration boom as an exceptional case
+study. The sudden supply shock in domestic and childcare services stemming from
+this event provides a unique quasi-experimental setting to examine whether the
+availability of affordable childcare and household services can reduce gender disparities
+and the penalties associated with parenthood. Using a novel individual-level
+measure of child penalty and a rich employer-employee administrative dataset, I
+find that the expansion of affordable domestic services driven by the inflow of female
+immigrant workers reduced the child penalties gender gap for native workers.
+The effect is persistent over time and more pronounced for relatively lower-skilled
+native women, suggesting that affordable substitutes for household production can
+help not only to alleviate gender gaps but also to reduce within-gender disparities.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+In this paper I analyse the impact of a larger provision of domestic services
+on child penalties, focusing on the Spanish migration boom as an exceptional case
+study. The sudden supply shock in domestic and childcare services stemming from
+this event provides a unique quasi-experimental setting to examine whether the
+availability of affordable childcare and household services can reduce gender disparities
+and the penalties associated with parenthood. Using a novel individual-level
+measure of child penalty and a rich employer-employee administrative dataset, I
+find that the expansion of affordable domestic services driven by the inflow of female
+immigrant workers reduced the child penalties gender gap for native workers.
+The effect is persistent over time and more pronounced for relatively lower-skilled
+native women, suggesting that affordable substitutes for household production can
+help not only to alleviate gender gaps but also to reduce within-gender disparities.
