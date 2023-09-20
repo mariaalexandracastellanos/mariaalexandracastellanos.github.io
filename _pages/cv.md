@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV](/files/CV_MCastellanos_Web_Sep2023.pdf)
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
