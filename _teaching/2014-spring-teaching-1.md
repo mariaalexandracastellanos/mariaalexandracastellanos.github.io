@@ -7,7 +7,7 @@ venue: "Quito, Ecuador"
 date: "2018-01-01"
 location: "Quito, Ecuador"
 excerpt: ' 
-## Main Instructor
+**Main Instructor**
 
 - **Advanced Econometrics**   
   Spring 2018  
