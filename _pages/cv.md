@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](/files/CV_MCastellanos_Web_Sep2023.pdf)
+[Download CV](mariaalexandracastellanos.github.io/files/CV_MCastellanos_Web_Sep2023.pdf)
 
 Education
 ======
