@@ -13,5 +13,6 @@ design that allows to closely evaluate prior labour market trajectories. The res
 suggest that immigration led to large negative local employment responses for low-skilled
 workers, but only mild wage effects. Analysing margins of adjustment, it is found that the
 strong displacement effects are not necessarily attributable to job-losses, but mainly driven
-by a reduction of native inflows into work in more exposed regions.'
+by a reduction of native inflows into work in more exposed regions. <br>
+<span style="color: blue;">*Draft available upon request *</span>'
 ---
