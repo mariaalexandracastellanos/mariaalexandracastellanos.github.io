@@ -14,5 +14,6 @@ do different contract types – fixed-term or open-ended contracts – affect wo
 careers? We find that transitory variation in the opening of permanent contracts
 is highly predictive of individual promotion probabilities and has long-lasting effects
 on earnings, employment, and the accumulation of experience in permanent
-positions.'
+positions. <br>
+<span style="color: blue;">*Draft available upon request *</span>'
 ---
