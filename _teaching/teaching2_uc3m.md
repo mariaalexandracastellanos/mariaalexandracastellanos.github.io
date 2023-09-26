@@ -23,7 +23,7 @@ TA for Professor Andrés Erosa  <br>
 Fall 2021  <br>
 *English*  <br>
 
-## Undergraduate Courses  <br>
+  ## Undergraduate Courses  <br>
 
 - **Quantitaive Microeconomics** (Microeconometrics)  <br>
 Fall 2019, 2020, 2021, 2022   <br>
@@ -39,7 +39,7 @@ Spring 2020, 2021  <br>
 
 - **Introduction to Mathematics for Economics**  <br>
 Fall 2019 <br>
-*English, Spanish*  
+*Spanish*  
 '
 ---
 
