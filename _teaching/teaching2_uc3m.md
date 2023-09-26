@@ -26,7 +26,7 @@ Fall 2021  <br>
 
   ## Undergraduate Courses  <br>
 
-- **Quantitaive Microeconomics** (Microeconometrics)  <br>
+- **Quantitative Microeconomics** (Microeconometrics)  <br>
 Fall 2019, 2020, 2021, 2022   <br>
 *English, Spanish*  
 
