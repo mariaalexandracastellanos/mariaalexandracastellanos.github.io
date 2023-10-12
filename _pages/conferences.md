@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Policy"
-permalink: /policy/
+title: "Conferences"
+permalink: /conferences/
 author_profile: true
 ---
 
 
-{% for post in site.policy %}
+{% for post in site.conferences %}
   {% include archive-single-nolink.html %}
 {% endfor %}
