@@ -21,3 +21,7 @@ author_profile: true
 - "El país en el que vive la Megan" (Evolution of Key Social and Economic Indicators between 2007 and 2013) with Daniela Anda. No.236, February 2014.
 - "Brasil, ¿mercado para el banano ecuatoriano?" with Mateo Samaniego. No.238, May 2014.
 - "Exportaciones crecen pero siguen concentradas" (Growing exports remain concentrated) with Mateo Samaniego. No.231, September 2013.
+
+## Book Chapters
+
+- De la Torre, A., Cueva, S., & Castellanos-Vásconez, M. A. (2020). The Macroeconomics of the Commodities Boom in Ecuador: A Comparative Perspective. In Assessing the Left Turn in Ecuador (pp. 163-212). Palgrave Macmil, Cham. [DOI:10.1007/978-3-030-27625-6_8](http://dx.doi.org/10.1007/978-3-030-27625-6_8)
