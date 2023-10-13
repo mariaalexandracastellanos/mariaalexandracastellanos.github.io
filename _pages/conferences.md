@@ -27,5 +27,5 @@ Applied Micro Workshop, Boston University (Boston, USA 2023). EEA-ESEM Bacelona 
 - Scientific Committee of the Junior Workshop on the Economics of Migration. Paris, France, June 2023.
 Co-organiser of the The Economics of Migration Junior Seminar. Since Fall 2021-Present.
 - Organiser of the PhD Applied-Work-in-Progress. Universidad Carlos III de Madrid. Fall 2022.
-· Member of the University College London team for the <ins>Econometric Game</ins>. University of Amsterdam,
+· Member of the University College London team for the [Econometric Game](https://wceconometrics.com/). University of Amsterdam,
 Netherlands. 2017.
