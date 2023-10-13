@@ -13,7 +13,8 @@ author_profile: true
 ## Presentations
 
 - Applied Micro Workshop, Boston University (Boston, USA 2023).
-- EEA-ESEM Bacelona School of Economics (Barcelona, Spain 2023). 21st century Applied Micro. (Annweiler, Germany 2023).
+- EEA-ESEM Bacelona School of Economics (Barcelona, Spain 2023).
+- 21st century Applied Micro. (Annweiler, Germany 2023).
 - ENTER Jamboree, University of Mannheim (Mannheim, Germany 2023).
 - 5th Queen Mary University Economics and Finance Workshop (London, UK 2023).
 - NHH Norwegian School of Economics (Bergen,Norway 2022). University of Southampton (online, 2022).
