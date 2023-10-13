@@ -15,5 +15,11 @@ My main research interests are in labour, migration and development economics.
 - MSc in Economics (Distinction) at [University College London](https://www.ucl.ac.uk/economics/ucl-department-economics) 
 
 ### *News*
-- I am visiting [Boston University](https://www.bu.edu/econ/) during the Fall 2023 
+- I am visiting [Boston University](https://www.bu.edu/econ/) during the Fall 2023
+
+### **_Forthcoming Presentations_**
+
+- 16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (October 2023).
+- Stockholm University (November 2023).
+- SAEe, University of Salamanca (December 2023).
 
