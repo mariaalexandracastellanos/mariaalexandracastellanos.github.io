@@ -18,17 +18,16 @@ author_profile: true
 - Stockholm University (November 2023).
 - SAEe, University of Salamanca (December 2023).
 
-2023:
-- Applied Micro Workshop, Boston University (Boston, USA).
-- EEA-ESEM Bacelona School of Economics (Barcelona, Spain).
-- CRC TR 224 Bonn-Mannheim SS: 21st century Applied Micro. (Annweiler, Germany).
-- ENTER Jamboree, University of Mannheim (Mannheim, Germany).
-- 5th Queen Mary University Economics and Finance Workshop (London, UK).
+### **_Previous_**
+- Applied Micro Workshop, Boston University (Boston, USA, 2023).
+- EEA-ESEM Bacelona School of Economics (Barcelona, Spain, 2023).
+- CRC TR 224 Bonn-Mannheim SS: 21st century Applied Micro. (Annweiler, Germany, 2023).
+- ENTER Jamboree, University of Mannheim (Mannheim, Germany, 2023).
+- 5th Queen Mary University Economics and Finance Workshop (London, UK, 2023).
+- NHH Norwegian School of Economics: SSSI & HCEO-University of Chicago (Bergen,Norway, 2022).
+- University of Southampton: The Economics of Crime over time and Space (online, 2022).
+- Economics Seminar Series at Universidad San Francisco de Quito (Quito, Ecuador 2020).
 - PhD Workshop, Universidad Carlos III (Madrid, Spain 2020, 2021, 2022, 2023).
-2022:
-- NHH Norwegian School of Economics: SSSI & HCEO-University of Chicago (Bergen,Norway).
-- University of Southampton: The Economics of Crime over time and Space (online).
-- Economics Seminar Series at Universidad San Francisco de Quito (Quito, Ecuador 2022).
 
 ## Other Academic Activities
 - Scientific Committee of the Junior Workshop on the Economics of Migration. Paris, France, June 2023.
