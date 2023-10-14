@@ -39,7 +39,7 @@ author_profile: true
 ## Other
 
 - Scientific Committee of the Junior Workshop on the Economics of Migration. Paris, France, June 2023.
-- Co-organiser of the The Economics of Migration Junior Seminar. Since Fall 2021-Present.
+- Co-organiser of the [The Economics of Migration Junior Seminar](https://sites.google.com/view/the-economics-of-migration/home). Since Fall 2021-Present.
 - Organiser of the PhD Applied-Work-in-Progress. Universidad Carlos III de Madrid. Fall 2022.
 - Member of the University College London team for the [Econometric Game](https://wceconometrics.com/). University of Amsterdam,
 Netherlands. 2017.
