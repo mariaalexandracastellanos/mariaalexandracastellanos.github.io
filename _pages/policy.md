@@ -10,7 +10,7 @@ author_profile: true
   {% include archive-single-nolink.html %}
 {% endfor %} -->
 
-### Ongoing:
+### Ongoing ###
 - RCT: Experimental evaluation of low-cost interventions to reduce discrimination against migrant students in Ecuador. With IADB (Ecuador)
 
 ### Policy Reports
