@@ -10,8 +10,6 @@ author_profile: true
   {% include archive-single-nolink.html %}
 {% endfor %} -->
 
-## Presentations
-
 ### **_Forthcoming_**
 
 - 16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (October 2023).
