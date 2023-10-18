@@ -15,9 +15,9 @@ I co-organise [The Economics of Migration Junior Seminar](https://sites.google.c
 
 #### **_Forthcoming Presentations:_**
 
-- <small>16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (October 2023).</small>
-- <small>Stockholm University (November 21 2023), more details [here](https://www.su.se/department-of-economics/calendar/brown-bag-seminar-mar%C3%ADa-alexandra-castellanos-universidad-carlos-iii-de-madrid-1.671584).</small>
-- <small>SAEe, University of Salamanca (December 14-16 2023).</small>
+- <span style="font-size: 14px;">T16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (October 2023).</span>
+- <span style="font-size: 14px;">TStockholm University (November 21 2023), more details [here](https://www.su.se/department-of-economics/calendar/brown-bag-seminar-mar%C3%ADa-alexandra-castellanos-universidad-carlos-iii-de-madrid-1.671584).</span>
+- <span style="font-size: 14px;">TSAEe, University of Salamanca (December 14-16 2023).</span>
 
 ### 🎓Education
 - PhD(c) Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es) 
