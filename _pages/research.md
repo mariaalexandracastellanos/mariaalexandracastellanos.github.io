@@ -15,7 +15,6 @@ author_profile: true
 <small> *María Alexandra Castellanos*</small>
 
 This paper analyses the impact of an immigration-induced expansion of household services on parenthood costs. The sudden supply shock in domestic and childcare services stemming from the Spanish migration boom provides a unique quasi-experimental setting to examine whether the availability of affordable substitutes for household production can reduce both gender disparities in the labour market and the penalties associated with parenthood. Using a novel individual-level measure of child penalty and a rich matched employer-employee administrative dataset, I combine a difference-in-differences strategy with an instrumental-variable design. I find that the expansion of domestic services driven by a large inflow of female immigrant workers reduced the gender gap associated with child penalties for native workers. The effect is persistent over time and more pronounced for low-skilled native women, suggesting that affordable substitutes for household production can help not only to alleviate gender gaps but also to reduce within-gender inequality. 
-
 <span style="color: blue;">*Draft coming soon!*</span>
 
 ### Quasi-Random Matches: Evidence from Dual Labor Markets"
@@ -34,7 +33,6 @@ careers? We find that transitory variation in the opening of permanent contracts
 is highly predictive of individual promotion probabilities and has long-lasting effects
 on earnings, employment, and the accumulation of experience in permanent
 positions.
-
 <span style="color: blue;">*Draft available upon request*</span>
 
 ### Immigration and native labour market outcomes. New Evidence from Spain
@@ -50,8 +48,6 @@ immigrant settlements from the two previous decades. I implements an event-study
 design that allows to closely evaluate prior labour market trajectories. The results
 suggest that immigration led to large negative local employment responses for low-skilled
 workers, but only mild wage effects. Analysing margins of adjustment, I show that the strong displacement effects are not necessarily attributable to job-losses, but mainly driven by a reduction of native inflows into work in more exposed regions.
- 
- <br>
 <span style="color: blue;">*Draft available upon request*</span>
 
 ## Work in Progress
