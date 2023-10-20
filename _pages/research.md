@@ -12,7 +12,7 @@ author_profile: true
 
 ### Immigration, Parenthood and Child Penalties
 
-*<small> María Alexandra Castellanos*</small>
+<small> *María Alexandra Castellanos*</small>
 
 This paper analyses the impact of an immigration-induced expansion of household services on parenthood costs. The sudden supply shock in domestic and childcare services stemming from the Spanish migration boom provides a unique quasi-experimental setting to examine whether the availability of affordable substitutes for household production can reduce both gender disparities in the labour market and the penalties associated with parenthood. Using a novel individual-level measure of child penalty and a rich matched employer-employee administrative dataset, I combine a difference-in-differences strategy with an instrumental-variable design. I find that the expansion of domestic services driven by a large inflow of female immigrant workers reduced the gender gap associated with child penalties for native workers. The effect is persistent over time and more pronounced for low-skilled native women, suggesting that affordable substitutes for household production can help not only to alleviate gender gaps but also to reduce within-gender inequality. 
 
@@ -20,7 +20,7 @@ This paper analyses the impact of an immigration-induced expansion of household 
 
 ### Quasi-Random Matches: Evidence from Dual Labor Markets"
 
-*<small>María Alexandra Castellanos, Henry Redondo, Jan Stuhler*</small>
+<small>*María Alexandra Castellanos, Henry Redondo, Jan Stuhler*</small>
 
 A fast-growing literature studies how sorting into particular jobs, firms, or locations
 affects workers. The key challenge when studying such questions is the
@@ -39,7 +39,7 @@ positions.
 
 ### Immigration and native labour market outcomes. New Evidence from Spain
 
-*<small>María Alexandra Castellanos*</small>
+<small>*María Alexandra Castellanos*</small>
 
 Understanding the effect of immigration in native labour market outcomes represents one of
 the most debated questions in the economic literature, after decades of research, no consensus
