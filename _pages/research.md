@@ -10,11 +10,12 @@ author_profile: true
   {% include archive-single-nolink.html %}
 {% endfor %} -->
 
-### Immigration, Parenthood and Child Penalties"
+### Immigration, Parenthood and Child Penalties
 
 María Alexandra Castellanos
 
 I analyse the impact of an expansion of household services availability on child penalties. The sudden supply shock in domestic and childcare services stemming from the Spanish migration boom provides a unique quasi-experimental setting to examine whether the availability of affordable substitutes for household production can reduce gender disparities in the labour market and the penalties associated with parenthood. Using a novel individual-level measure of child penalty and a rich matched employer-employee administrative dataset, I combine a difference-in-differences strategy with an instrumental variable design. I find that the expansion of domestic services driven by the inflow of female immigrant workers reduced the gender gap associated with child penalties for native workers. The effect is persistent over time and more pronounced for relatively lower-skilled native women, suggesting that affordable substitutes for household production can help not only to alleviate gender gaps but also to reduce within-gender inequality.
+
 <span style="color: blue;">*Draft coming soon!*</span>
 
 ### Quasi-Random Matches: Evidence from Dual Labor Markets"
@@ -32,8 +33,9 @@ do different contract types – fixed-term or open-ended contracts – affect wo
 careers? We find that transitory variation in the opening of permanent contracts
 is highly predictive of individual promotion probabilities and has long-lasting effects
 on earnings, employment, and the accumulation of experience in permanent
-positions. <br>
-<span style="color: blue;">*Draft available upon request*</span>'
+positions.
+
+<span style="color: blue;">*Draft available upon request*</span>
 
 ### Immigration and native labour market outcomes. New Evidence from Spain
 
@@ -49,5 +51,7 @@ design that allows to closely evaluate prior labour market trajectories. The res
 suggest that immigration led to large negative local employment responses for low-skilled
 workers, but only mild wage effects. Analysing margins of adjustment, it is found that the
 strong displacement effects are not necessarily attributable to job-losses, but mainly driven
-by a reduction of native inflows into work in more exposed regions. <br>
-<span style="color: blue;">*Draft available upon request*</span>'
+by a reduction of native inflows into work in more exposed regions.
+ 
+ <br>
+<span style="color: blue;">*Draft available upon request*</span>
