@@ -53,3 +53,8 @@ workers, but only mild wage effects. Analysing margins of adjustment, I show tha
  
  <br>
 <span style="color: blue;">*Draft available upon request*</span>
+
+## Work in Progress
+- Immigration and Social Capital in the United Kingdom (with Luigi Minale)
+- Crime and Gender: Assessing Violence Against Women
+
