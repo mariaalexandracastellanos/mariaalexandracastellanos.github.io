@@ -29,8 +29,7 @@ careers? We find that transitory variation in the opening of permanent contracts
 is highly predictive of individual promotion probabilities and has long-lasting effects
 on earnings, employment, and the accumulation of experience in permanent
 positions.<br>
-<small><span style="color: blue;">*Draft available upon request*</span></small>
-
+[__PDF__]]({{ site.baseurl }}/files/QRandomMatches_DualLabour_CRS.pdf)
 ### Immigration and native labour market outcomes. New Evidence from Spain <br>
 <small>María Alexandra Castellanos</small> <br>
 Understanding the effect of immigration in native labour market outcomes represents one of
