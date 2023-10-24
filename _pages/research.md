@@ -37,7 +37,7 @@ the most debated questions in the economic literature, after decades of research
 has been reached. This paper addresses this question in the context of the immigration
 wave to Spain of the 2000’s through a pure spatial correlation approach. To identify causal
 estimates, the study applies an instrumental variable strategy exploiting information on early
-immigrant settlements from the two previous decades in an event-study design framework. I find that immigration led to large negative local employment responses for low-skilled workers, but only mild wage effects. Analysing margins of adjustment, I show that the strong displacement effects are not necessarily attributable to job-losses, but mainly driven by a reduction of native inflows into work in more exposed regions. <br>
+immigrant settlements from the two previous decades in an event-study design framework. I find that immigration led to large negative local employment responses for low-skilled workers, but only mild wage effects. Analysing margins of adjustment, I show that the strong displacement impact is not necessarily attributable to job-losses, but mainly driven by a reduction of native inflows into work in more exposed regions. <br>
 <small><span style="color: blue;">*Draft coming soon!*</span></small>
 
 ## Work in Progress
