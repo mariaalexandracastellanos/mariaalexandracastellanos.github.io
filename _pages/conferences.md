@@ -22,9 +22,9 @@ author_profile: true
 - CRC TR 224 Bonn-Mannheim SS: 21st century Applied Micro. (Annweiler, Germany, 2023).
 - ENTER Jamboree, University of Mannheim (Mannheim, Germany, 2023).
 - 5th Queen Mary University Economics and Finance Workshop (London, UK, 2023).
-- NHH Norwegian School of Economics: SSSI & HCEO-University of Chicago (Bergen,Norway, 2022).
+- NHH Norwegian School of Economics: SSSI & HCEO-University of Chicago (Bergen, Norway, 2022).
 - University of Southampton (online, 2022).
-- Economics Seminar Series at Universidad San Francisco de Quito (Quito, Ecuador 2020).
+- Economics Seminar Series at Universidad San Francisco de Quito (Quito, Ecuador, 2020).
 - PhD Workshop, Universidad Carlos III (Madrid, Spain 2020, 2021, 2022, 2023).
 
 ## Other Academic Activities
