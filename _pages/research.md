@@ -12,35 +12,25 @@ author_profile: true
 
 ### Immigration, Parenthood and Child Penalties <br>
 <small> María Alexandra Castellanos</small> <br>
-This paper analyses the impact of an immigration-induced expansion of household services on parenthood costs. The sudden supply shock in domestic and childcare services stemming from the Spanish migration boom provides a unique quasi-experimental setting to examine whether the availability of affordable substitutes for household production can reduce both gender disparities in the labour market and the penalties associated with parenthood. Using a novel individual-level measure of child penalty and a rich matched employer-employee administrative dataset, I combine a difference-in-differences strategy with an instrumental-variable design. I find that the expansion of domestic services driven by a large inflow of female immigrant workers reduced the gender gap associated with child penalties for native workers. The effect is persistent over time and more pronounced for low-skilled native women, suggesting that affordable substitutes for household production can help not only to alleviate gender gaps but also to reduce within-gender inequality. <br>
+This paper analyses the impact of an immigration-induced expansion of household services on parenthood costs. The sudden supply shock in domestic and childcare services stemming from the Spanish migration boom provides a unique quasi-experimental setting to examine whether the availability of affordable substitutes for household production can reduce both gender disparities in the labour market and the penalties associated with parenthood. Using a novel individual-level measure of the child penalty and a rich matched employer-employee administrative dataset, I combine a difference-in-differences strategy with a shift-share instrumental-variable design to estimate the causal effect of the shock. I find that the expansion of domestic services driven by a large inflow of female immigrant workers reduced the gender gap associated with child penalties for native workers. The responses are driven by two main channels: labour supply and job quality for mothers, including employment in higher-paying firms, as well as better sectoral and occupational attributes. The effect is persistent over time and more pronounced for low-skilled native women, suggesting that affordable substitutes for household production can not only alleviate gender gaps but also reduce within-gender inequality. <br>
 <small><span style="color: blue;">*Draft coming soon!*</span></small>
 
 ### Quasi-Random Matches: Evidence from Dual Labor Markets <br>
 <small>María Alexandra Castellanos, Henry Redondo, Jan Stuhler</small> <br>
-A fast-growing literature studies how sorting into particular jobs, firms, or locations
-affects workers. The key challenge when studying such questions is the
-non-random sorting of workers into jobs. We propose a novel identification strategy
-that exploits the timing of worker-firm matching. We isolate quasi-random variation
-in matches by interacting high-frequency information on the duration of contracts
-on the labor supply and transitory fluctuations in job creation on the labor demand
-side. We apply this method to address a central question in dual labor markets: how
-do different contract types – fixed-term or open-ended contracts – affect workers’
-careers? We find that transitory variation in the opening of permanent contracts
-is highly predictive of individual promotion probabilities and has long-lasting effects
-on earnings, employment, and the accumulation of experience in permanent
-positions.<br>
+A fast-growing literature studies how sorting into particular jobs, firms, or locations affects workers. The key challenge when studying such questions is the
+non-random sorting of workers into jobs. We propose a novel identification strategy that exploits the timing of worker-firm matching. We isolate quasi-random variation
+in matches by interacting high-frequency information on the duration of contracts on the labor supply and transitory fluctuations in job creation on the labor demand
+side. We apply this method to address a central question in dual labor markets: how do different contract types – fixed-term or open-ended contracts – affect workers’
+careers? We find that transitory variation in the opening of permanent contracts is highly predictive of individual promotion probabilities and has long-lasting effects
+on earnings, employment, and the accumulation of experience in permanent positions.<br>
 [PDF]({{ site.baseurl }}/files/QRandomMatches_DualLabour_CRS.pdf)
 ### Immigration and native labour market outcomes. New Evidence from Spain <br>
 <small>María Alexandra Castellanos</small> <br>
-Understanding the effect of immigration in native labour market outcomes represents one of
-the most debated questions in the economic literature, after decades of research, no consensus
-has been reached. This paper addresses this question in the context of the immigration
-wave to Spain of the 2000’s through a pure spatial correlation approach. To identify causal
-estimates, the study applies an instrumental variable strategy exploiting information on early
-immigrant settlements from the two previous decades in an event-study design framework. I find that immigration led to large negative local employment responses for low-skilled workers, but only mild wage effects. Analysing margins of adjustment, I show that the strong displacement impact is not necessarily attributable to job-losses, but mainly driven by a reduction of native inflows into work in more exposed regions. <br>
+Understanding the effect of immigration in native labor market outcomes represents one of the most debated questions in the economic literature, after decades of research, no consensus has been reached. In the context of the Spanish immigration boom of the 2000’s, this paper evaluates to what extent different methodologies applied in the migration literature can explain apparent conflicting results. To identify causal estimates, the study applies a pure spatial correlation approach combined with an instrumental variable strategy exploiting information on early immigrant settlements from the two previous decades at a detailed local labor market
+level. Using large-scale administrative social security records in an event-study design framework, I find that immigration led to large negative local employment responses for low-skilled workers, but only mild wage effects. Analyzing margins of adjustment, I show that the strong impact on displacement is not necessarily attributable to job-losses, but mainly driven by a reduction of native inflows into work in more exposed regions <br>
 <small><span style="color: blue;">*Draft coming soon!*</span></small>
 
 ## Work in Progress
-- Immigration and Social Capital in the United Kingdom (with Luigi Minale)
-- Crime and Gender: Assessing Violence Against Women
+- Unity in Diversity? Immigration and Social Capital in the UK (with Luigi Minale)
+- Gender-Based Violence and Human Capital: Assessing Spillovers of Violence Against Women in Ecuador
 
