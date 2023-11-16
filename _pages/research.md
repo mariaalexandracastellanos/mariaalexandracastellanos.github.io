@@ -10,7 +10,7 @@ author_profile: true
   {% include archive-single-nolink.html %}
 {% endfor %} -->
 
-### Immigration, Parenthood and Child Penalties <br>
+### Immigration, Parenthood and Child Penalties *(Job Market Paper)* <br>
 <small> María Alexandra Castellanos</small> <br>
 This paper analyses the impact of an immigration-induced expansion of household services on parenthood costs. In a unique quasi-experimental setting, I exploit the sudden supply shock in domestic and childcare services during the Spanish migration boom. I examine whether the availability of affordable substitutes for household production can reduce gender disparities associated with labour market parenthood penalties. Using a novel individual-level measure of the child penalty and a rich matched employer-employee administrative dataset, I combine a difference-in-differences strategy with a shift-share instrumental-variable design to estimate the causal effect of the shock. I find that the expansion of domestic services driven by a large inflow of female immigrant workers reduced the gender gap associated with child penalties for native workers. The responses are driven by two main channels: labour supply and job quality for native mothers. This includes employment in higher-paying firms, as well as better sectoral and occupational attributes. The effect is persistent over time and more pronounced for low-skilled native women, suggesting that affordable substitutes for household production can not only help alleviate gender gaps but also reduce within-gender inequality. <br>
 <small><span style="color: blue;">*Draft coming soon!*</span></small>
