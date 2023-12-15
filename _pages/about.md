@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD candidate in Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es). My main fields of research are in Labour Economics, Development and Applied Microeconomics. In my work I apply causal inference methods to study issues on migration, gender and labour market duality. I am visiting [Boston University](https://www.bu.edu/econ/) during the Fall 2023.
+I am a PhD candidate in Economics at [Universidad Carlos III de Madrid](https://economics.uc3m.es). My main fields of research are in Labour Economics, Development and Applied Microeconomics. In my work I apply causal inference methods to study issues on migration, gender and labour market duality. I visited [Boston University](https://www.bu.edu/econ/) during the Fall 2023.
 
 I co-organise [The Economics of Migration Junior Seminar](https://sites.google.com/view/the-economics-of-migration/home).
 
