@@ -12,11 +12,11 @@ author_profile: true
 
 ### **_Forthcoming_**
 
-- 16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (October 2023).
-- Stockholm University (November 21 2023).
-- SAEe, University of Salamanca (December 14-16 2023).
 
 ### **_Previous_**
+- SAEe, University of Salamanca (Salamanca, Spain, 2023).
+- Stockholm University (Sweden, 2023).
+- 16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (Boston, USA, 2023).
 - Applied Micro Workshop, Boston University (Boston, USA, 2023).
 - EEA-ESEM Barcelona School of Economics (Barcelona, Spain, 2023).
 - CRC TR 224 Bonn-Mannheim SS: 21st century Applied Micro. (Annweiler, Germany, 2023).
