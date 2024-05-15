@@ -14,7 +14,7 @@ I co-organise [The Economics of Migration Junior Seminar](https://sites.google.c
 
 #### **_Forthcoming Presentations:_**
 
-- <span style="font-size: 16px;">ifo Conference on Understanding Inequalities with Novel Data Methods (February 2024).</span>
+- <span style="font-size: 16px;">Understanding Inequalities with Novel Data Methods, ifo Institute (February 2024).</span>
 - <span style="font-size: 16px;">HUMANS LACEA, The World Bank - IDB (March 2024).</span>
 - <span style="font-size: 16px;">Lisbon Migration Economics Workshop, ISEG (April 2024).</span>
 - <span style="font-size: 16px;">Investigating Social Inequalities, IAB (April 2024).</span>
