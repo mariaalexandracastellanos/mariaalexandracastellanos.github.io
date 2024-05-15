@@ -11,14 +11,14 @@ author_profile: true
 {% endfor %} -->
 
 ### **_Forthcoming_**
--HUMANS LACEA, The World Bank - IDB (March 2024).
--Lisbon Migration Economics Workshop, ISEG (April 2024).
--Investigating Social Inequalities, IAB (April 2024).
--WELAC-LACEA Gender and Household Economics Workshop - XIX RIDGE FORUM, PUC Chile (May 2024).
--5th EBRD-KCL Workshop on the Economics and Politics of Migration, King’s College London (June 2024).
+- HUMANS LACEA, The World Bank - IDB (March 2024).
+- Lisbon Migration Economics Workshop, ISEG (April 2024).
+- Investigating Social Inequalities, IAB (April 2024).
+- WELAC-LACEA Gender and Household Economics Workshop - XIX RIDGE FORUM, PUC Chile (May 2024).
+- 5th EBRD-KCL Workshop on the Economics and Politics of Migration, King’s College London (June 2024).
 
 ### **_Previous_**
-- ifo Conference on Understanding Inequalities with Novel Data Methods (February 2024).
+- ifo Conference on Understanding Inequalities with Novel Data Methods (Munich, Germany, 2024).
 - SAEe, University of Salamanca (Salamanca, Spain, 2023).
 - Stockholm University (Sweden, 2023).
 - 16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (Boston, USA, 2023).
