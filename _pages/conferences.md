@@ -18,7 +18,7 @@ author_profile: true
 - 5th EBRD-KCL Workshop on the Economics and Politics of Migration, King’s College London (June 2024).
 
 ### **_Previous_**
-- ifo Conference on Understanding Inequalities with Novel Data Methods (Munich, Germany, 2024).
+- ifo Conference on Understanding Inequalities with Novel Data Methods, ifo Institute (Munich, Germany, 2024).
 - SAEe, University of Salamanca (Salamanca, Spain, 2023).
 - Stockholm University (Sweden, 2023).
 - 16th AFD-World Bank International Conference on Migration and Development (_Discussant_), Boston University (Boston, USA, 2023).
