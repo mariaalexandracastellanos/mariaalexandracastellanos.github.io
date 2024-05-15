@@ -20,6 +20,7 @@ I co-organise [The Economics of Migration Junior Seminar](https://sites.google.c
 - <span style="font-size: 16px;">ifo Conference on Understanding Inequalities with Novel Data Methods (February 2024).</span>
 - <span style="font-size: 16px;">HUMANS LACEA, The World Bank - IDB (March 2024).</span>
 - <span style="font-size: 16px;">Lisbon Migration Economics Workshop, ISEG (April 2024).</span>
+- <span style="font-size: 16px;">Investigating Social Inequalities, IAB (April 2024).</span>
 - <span style="font-size: 16px;">WELAC-LACEA Gender and Household Economics Workshop - XIX RIDGE FORUM, PUC Chile (May 2024).</span>
 - <span style="font-size: 16px;">5th EBRD-KCL Workshop on the Economics and Politics of Migration, King's College London (June 2024).</span>
 ### 🎓Education
